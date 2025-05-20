@@ -203,8 +203,8 @@ If you find this work useful, please consider citing:
 ```bibtex
 @misc{enhanced-diffusiondet,
   author = {Your Name},
-  title = {Enhanced DiffusionDet: Improving Object Detection in Dense Scenes},
-  year = {2023},
+  title = {AlgaeDiff-Net: Integrating Density Estimation with Diffusion Models for Enhanced Microalgae Detection},
+  year = {2025},
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/your-username/enhanced-diffusiondet}}
